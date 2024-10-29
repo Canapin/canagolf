@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - BasicBall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - LineLayer
+  - Water
+  - UI
+  - Balls
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 2234598145
+    locked: 0
+  - name: LineLayer
+    uniqueID: 1521330959
+    locked: 0
+  - name: Balls
+    uniqueID: 15315081
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - LineLayer
+  - Balls
